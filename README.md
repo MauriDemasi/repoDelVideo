@@ -1,3 +1,1 @@
-Probando hacer commits desde el terminal
-#Ahora agrego este comentario
-para ver si se ve
+ahora borro todo para hacer otro commit
